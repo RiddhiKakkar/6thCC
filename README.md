@@ -1,1 +1,1 @@
-# 6thCC CST 
+# 6thCC 
