@@ -1,1 +1,1 @@
-# 6thCC cs
+# 6thCC
